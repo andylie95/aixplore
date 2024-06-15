@@ -1,8 +1,0 @@
-streamlit
-pandas
-requests
-googletrans==4.0.0-rc1
-python-docx
-openpyxl
-python-pptx
-PyPDF2
