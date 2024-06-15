@@ -1,2 +1,0 @@
-# aixplore
-AI XPLORE
