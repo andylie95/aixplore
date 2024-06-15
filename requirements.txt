@@ -1,0 +1,9 @@
+streamlit
+pandas
+deep_translator
+langdetect
+langcodes
+python-docx
+openpyxl
+python-pptx
+scikit-learn
