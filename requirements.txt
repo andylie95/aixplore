@@ -1,0 +1,7 @@
+streamlit
+pandas
+deep_translator
+python-docx
+openpyxl
+python-pptx
+scikit-learn
